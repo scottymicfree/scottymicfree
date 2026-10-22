@@ -1,5 +1,8 @@
 # Randy Webb
 
+> 🌐 **Fenton Lab official website:** [fentonlabai.pages.dev](https://fentonlabai.pages.dev/)  
+> Planned primary domain: `fentonlabai.com` (custom-domain connection pending).
+
 ### Founder & Systems Architect — Lucy AIOS
 
 I'm building **Lucy AIOS**, an experimental local-first AI operating architecture focused on a question I think matters more as AI systems become increasingly capable:
